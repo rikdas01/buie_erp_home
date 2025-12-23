@@ -5,10 +5,12 @@ body{
 
 }
 .headh1 h1{
+ width: 100%;
  color:rgb(245, 46, 7);
  text-align:initial;
 }
 .btn{
+ width: 100%;
  padding:15px 15px;
  background-color:rgba(26, 237, 30, 0.989);
  color:rgb(21, 20, 20);
