@@ -115,6 +115,7 @@ background-color:rgb(251, 206, 28);
  background-color:rgb(79, 165, 29);
  color:rgb(10, 10, 11);
 }
+.dropdown-menu a:hover {background-color: grey}
 
 /*#nav ul{
  margin-left:50%;
